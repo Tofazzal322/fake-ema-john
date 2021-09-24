@@ -9,3 +9,16 @@
     margin-right: 5px;
     margin-left: 30px;
 }
+
+.search-field{
+    background-color: gray;
+    text-align: center;
+line-height: 40px;
+    /* width: 400px; */
+}
+.search-field input{
+    width: 50%;
+    height: 20px;
+    /* padding: 10px; */
+    
+}
