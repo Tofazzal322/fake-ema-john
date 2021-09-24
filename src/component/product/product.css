@@ -1,0 +1,46 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid gray;
+    margin: 10px;
+    width: 90%;
+    justify-content: center;
+}
+
+.product-name{
+    color: rgb(45, 30, 255);
+    font-weight: 500;
+    font-size:16px;
+}
+
+.description{
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.button-section{
+    display: flex;
+    
+}
+
+.button{
+    font-weight: bold;
+    color: rgb(31, 30, 30);
+    font-size: 16px;
+    margin-right: 50px;
+    margin-top: 20px;
+    padding: 8px 70px;
+    background-color: rgb(255, 166, 0);
+    border: 1px solid lightgray;
+    border-radius: 5px;
+
+}
+
+.stock{
+    color: rgb(168, 37, 37);
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.star{
+    color: rgb(255, 145, 0);
+}
